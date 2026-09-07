@@ -1,1 +1,7 @@
+[
+  { "TimeCreated": "2026-09-07T11:00:00", "Id": 4624, "Message": "Successful login" },
+  { "TimeCreated": "2026-09-07T11:01:00", "Id": 4672, "Message": "Special privileges assigned" },
+  { "TimeCreated": "2026-09-07T11:02:00", "Id": 4688, "Message": "Process created: cmd.exe" },
+  { "TimeCreated": "2026-09-07T11:03:00", "Id": 4688, "Message": "Process created: powershell.exe" }
+]
 
