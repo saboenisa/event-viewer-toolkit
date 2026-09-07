@@ -19,4 +19,9 @@ body {
     width: 200px;
     font-size: 18px;
 }
+#pieChart {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
 
