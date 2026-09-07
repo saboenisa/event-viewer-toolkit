@@ -1,4 +1,4 @@
-fetch('../filtered_events.json')
+fetch('../fake_data/bruteforce.json')
     .then(response => response.json())
     .then(data => {
 
