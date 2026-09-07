@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Event Viewer Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <h1>Event Viewer Toolkit Dashboard</h1>
+
+    <div class="cards">
+        <div class="card" id="successfulLogins">Successful Logins</div>
+        <div class="card" id="failedLogins">Failed Logins</div>
+        <div class="card" id="privEsc">Privilege Escalations</div>
+        <div class="card" id="processCreated">Processes Created</div>
+    </div>
+
+    <canvas id="pieChart"></canvas>
+    <canvas id="barChart"></canvas>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>
 
